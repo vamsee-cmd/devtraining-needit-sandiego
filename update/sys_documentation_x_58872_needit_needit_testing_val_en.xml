@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="testing_val" label="testing val" language="en" table="x_58872_needit_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>testing_val</element>
+            <help/>
+            <hint/>
+            <label>testing val</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <plural>testing vals</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-09 07:40:54</sys_created_on>
+            <sys_name>testing val</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_x_58872_needit_needit_testing_val_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
